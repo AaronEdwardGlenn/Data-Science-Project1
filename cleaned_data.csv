@@ -1,0 +1,637 @@
+,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,min_salary,max_salary,avg_salary,company_txt,job_state,same_state,age,python_yn,aws_yn,excel_yn,R_yn
+0,Data Scientist,$80K-$120K(Employer est.),"About ClearCut Analytics
+ClearCut was founded in Chicago with the mission of revolutionizing strategic decision-making by the world's leading brands through data-powered business intelligence. With a focus on the Amazon marketplace, ClearCut provides a vast array of sales analytics to equip brands with the information they need to maximize their value.
+
+
+Data Scientist Job Description
+ClearCut Analytics is looking for an innovative, solutions-oriented Data Scientist to join our fast-paced company and growing Analytics & Product Development team. The Data Scientist will play a key role in our company’s growth through building a highly scalable infrastructure that allows our team to develop data-driven solutions to solve complex business challenges. The ideal candidate is passionate about technology, loves collaborating to solve a wide variety of challenges and interesting use cases. This role will report to ClearCut’s Chief Technology Officer.
+Responsibilities
+Helping to build and drive the Data Science and Analytics roadmap
+Leveraging data to drive business solutions for clients that are presented through ClearCut’s SaaS platform
+Performing data collection, as well as developing custom models and algorithms to apply to data sets
+Using predictive modeling to increase and optimize business operations, customer experience, revenue generation, and other business outcomes
+Processing, cleansing, and verifying the integrity of data used for modeling and analysis, while enhancing processes and tools used to monitor model performance and input data
+Developing machine learning models and productizing AI-based solutions alongside product and development team
+Ideating new data-related concepts and applications then overseeing projects through deployment
+Taking end-to-end ownership of problem domains and continuously improving upon quantitative solutions
+Requirements
+MS or Bachelor’s Degree in Mathematics, Statistics, CS/Engineering, or similar field
+4+ years of professional experience in an analytics and data science environment utilizing quantitative analytics methodologies, experience in a SaaS or eCommerce environment a plus
+Experience writing programs/queries with data analysis tools and languages such as Python, R, SAS, AMPL, SQL, or Alteryx
+Hands-on experience with multivariate analytic techniques: linear and logistic regression, decision tree, cluster and factor analysis, time-series forecasting methods, SVM models, and/or neural networks
+Understanding of broad business principles and the ability to create solutions for real-world challenges
+Ability to thrive in a fast-paced, entrepreneurial environment
+Eagerness to learn and grow",5.0,"ClearCut Analytics
+5.0","Chicago, IL","Chicago, IL",1 to 50 employees,2016,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,-1,80,120,100.0,"ClearCut Analytics
+", IL,1,4,True,False,False,False
+1,Senior Healthcare Analyst/Data Scientist,$80K-$120K(Employer est.),"This position is responsible for collaborating with clients, operational leads and subject matter experts to develop and implement tactics and strategy for optimizing profitability, clinical performance, member and provider satisfaction and client satisfaction by developing and leveraging analytic tools, financial models and reports, marketing and outreach. In addition to being an expert SAS, Tableau and Excel developer, each Lead Healthcare Analyst is responsible for maintaining close collaborative relationships with one or more DentaQuest Regional Vice Presidents and all client and provider directors and managers within the states in the assigned region, and for presenting recommendations, strategies and findings. The Lead Healthcare Analyst will organize, lead and support efforts to measure, analyze and report on trends enterprise-wide related to provider utilization, reimbursements, access to care, cost management, etc. and identify and promote strategies to positively influence access to quality, cost effective care and improved program performance. This individual will also work with other areas of the company, including Underwriting, Provider Services, Clinical Management and Client Services to assist in the understanding of provider cost and network trends impacting program costs and profitability and to recommend strategies for improvement wherever possible.
+
+PRIMARY JOB RESPONSIBILITIES:
+• Lead point of contact for a DentaQuest business region.
+• Responsible for tactical and strategic partnership with a Regional Vice President in identifying, interpreting, prioritizing, designing and procuring analyses guide business decisions.
+• Responsible for partnering with business and clinical teams and other internal clients and resources to enable and execute impactful, accurate business analytics.
+• Lead analytic projects and coordinate teams of analysts and programmers to deliver on internal client needs.
+• Develop, maintain and enforce compliance with project and campaign plans.
+• Use SAS, Python, R and other tools to analyze complex business challenges and help to define best practices for:
+o Outcomes measurement
+o Provider optimization
+o Benefit structures and algorithms
+o System edits, fraud detection, UM and UR
+o Member behavior management
+• Present technical findings and methodologies and present recommendations to senior clients in written and visual presentations.
+• Provide mentoring and support to analysts to assist in their development and ability to meet department needs.
+• Monitor and track provider reimbursements to identify strategies to ensure access and profitability targets are met in a manner that is consistent with quality, cost effective care.
+• Work with other internal departments as necessary to develop strategies and programs to manage dental costs within each market to assure profitability and budgetary goals are met.
+• Provide recommendations on department policies, objectives and initiatives. Evaluate and suggest changes as necessary to optimize processes and efficiencies.
+• Participate in special projects as needed or requested.
+• Adhere to DentaQuest and Business Analytics business processes, SOPs and quality control standards.
+
+REQUIRED:
+• Bachelors degree in Computer Science, Math, Finance, Economics or business-related field or equivalent experience.
+• 5+ years experience in data management, analysis and reporting to include experience with combining clinical and financial data.
+• Advanced experience with database and business intelligence tools such as SAS, Python, R, Tableau, Cognos, MS Report Manager and Report Builder.
+• Experience designing and implementing complex algorithms and/or quality metrics.
+• Knowledge of health care industry is preferred.
+• Strong foundation in statistical theory and practice required.
+• Demonstrated ability to analyze and solve complex problems.
+• Excellent PC skills with proficiency in Excel essential.
+• Strong customer service and analytical skills.
+• Strong time management and business process skills.
+• Ability work well with others.
+• Ability to meet multiple deadlines in a fast-paced environment.
+
+PHYSICAL DEMANDS:
+• Ability to work in a traditional professional office setting or remote equivalent.
+• Ability to effectively operate computer equipment.
+• Work schedule may vary and is determined by project schedules.
+• Ability to travel as projects dictate.
+• Ability to efficiently operate all job-related office equipment.
+• Ability to communicate via telephone and work in virtual teams.
+• Ability to work in a dynamic environment.",3.2,"DentaQuest
+3.2","Milwaukee, WI","Boston, MA",1001 to 5000 employees,2001,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),"MCNA Dental Plans, United Concordia, Delta Dental Plans Association",80,120,100.0,"DentaQuest
+", WI,0,19,True,False,True,False
+2,Data Engineer,$80K-$120K(Employer est.),"A Bit about Us
+
+Our organization was founded in 1953 by Louis Spaw and Frank Glass, hence the name SpawGlass. With 10 offices across Texas, the company now has approximately 750 employees statewide and is 100 percent employee-owned with ownership open to all employees. Our DNA is comprised of five core values: Build Trust, Be Professional, Live Teamwork, Be Passionate and Think Like an Owner and our purpose is to provide our clients with the absolute best construction experience.
+
+What Sets Us Apart
+
+We don't just build buildings, we build people, and our core values aren't just stated, they're practiced. We not only want to hire difference makers; we also want to retain them. The average tenure of our team members is 10 years – more than twice the median years of tenure in the construction industry nationwide.
+
+Accountabilities:
+Build a growth mindset
+Develop and maintain excellent relationships with project team members
+Assist with the design and management of the technology stack used for data storage and processing.
+Analyze and translate business needs into data deliverables
+Design and development of API interfaces with off-site application/software suites.
+Creation of dashboards, reports or downstream data feeds from existing applications
+Create and manage data models, data flow diagrams, data mappings, and data dictionaries
+Develop and manage databases, data pipelines, data warehouses, data marts and data lakes
+Identify and reconcile data quality and inconsistency issues
+Facilitate data integration and transformation requirements for moving data between applications; ensuring interoperability of applications with database, data warehouse and data mart environments
+Work with leadership and information security team to ensure confidentiality, integrity and availability of data and recommending improvements
+Minimum Education:
+
+A four year technical degree in computer science, engineering, data science or a related field.
+
+Relevant experience with certifications such as MTA-SQL, MCSA Database Development/DBA/BIDS will also be considered.
+
+Experience Required: 6+ years
+
+IT Technologies Preferred:
+Microsoft SQL Server
+Microsoft Office Suite
+Microsoft SSRS
+RDBMS
+Knowledge of the following is a plus, but not required:
+Programming Languages (.NET, VBA, C#, Python)
+Microsoft SSAS
+Oracle 9i or later
+Microsoft Power BI
+NoSQL
+Data Management Skills Preferred:
+
+Strong understanding of the following:
+Database Administration Principles
+T-SQL/PSQL
+Data Models/Normalizations
+Databases
+Data Integration
+Data Analytics
+Knowledge of the following is a plus:
+Cloud Data Architecture
+Data Warehouses/Data Marts
+ETL/API Integrations
+Business Intelligence
+Master Data Management
+Robotic Process Automation (RPA)
+Work Environment:
+
+Corporate office environment
+
+Monday – Friday, 8:00 am – 5:00 pm
+
+SpawGlass is an Equal Opportunity Employer.",4.4,"SpawGlass
+4.4","Houston, TX","Houston, TX",501 to 1000 employees,1953,Subsidiary or Business Segment,Construction,"Construction, Repair & Maintenance",$500 million to $1 billion (USD),-1,80,120,100.0,"SpawGlass
+", TX,1,67,True,False,True,False
+3,"Data Scientist - Statistics, Early Career",$80K-$120K(Employer est.),"*Organization and Job ID**
+Job ID: 310918
+
+Directorate: National Security Directorate
+
+Division: Computing & Analytics
+
+Group: Applied Statistics & Computational Modeling
+*Job Description**
+This position is for a Scientist in Data Science and Applied or Mathematical Statistics who will provide scientific and technical research within the National Security Directorate (NSD) supporting the data analytics capabilities of the Computational Analytics Division. The Scientist will develop and apply fundamental mathematical or statistical theory to advance analytic solutions in various scientific domains. The Scientist must be able to draw from a strong statistical background, in areas including experimental design, advanced statistical modeling (e.g. mixed linear models, nonparametric models, etc.), machine learning, and computer simulations, to recognize patterns, characterize uncertainty, and develop predictive models using structured and unstructured data. The Scientist will produce solutions driven by domain science and mathematical statistical science from complex and high-dimensional datasets and design, develop, and evaluate advanced algorithms that lead to optimal value extraction from data. In addition to technical research this position expects participation and career development in task management, proposal writing, business development, and publishing.
+
+Operating on the data-information-knowledge continuum, staff at PNNL employ diverse methods to confront significant problems of national interest from distilling distributed data into knowledge that supports decision processes to enabling resilient technologies that enhance computing at extreme scales. Our research portfolio spanning from basic to applied includes statistical modeling and experimental design, applied statistics, applied mathematics, machine learning, operations research, optimization, and other advanced statistical and mathematical domains.
+
+Computing researchers and practitioners work side by side to apply advanced theories, methods, algorithms, models, evaluation tools and testbeds, and computational-based solutions to address complex scientific challenges affecting energy, biological sciences, the environment, and national security. Core domain knowledge is beneficial, such as in the nuclear, biological, energy, materials, or chemical science spaces.
+*The hiring level will be determined based on the education, experience, and skill set of the successful candidate based on the following:**
+*Level II** : Leads specific tasks of the project to meet scope, schedule and budget. Expected to contribute professionally, building a professional reputation for technical expertise. Fully applying and interpreting standard theories, principles, methods, tools and technologies. Contributes technical content to proposals and develops business through excellent project performance.
+*Level III:** Manages small to moderate projects and/or major project tasks. Integrates intellectual and technical capabilities of work teams. Enhances technical/professional skills of junior staff through active mentoring and training. Generates ideas for new proposals and participates in business development activities
+*Minimum Qualifications**
++ BS/BA with 2 years of experience, MS/MA with 0 years of experience, or PhD with 0 years of experience
+*Preferred Qualifications**
++ BS/BA with 5 years of experience, MS/MA with 3 years of experience, or PhD with 1 year of experience, focused in statistics with experience involving increasing levels of scientific research, task management, and programmatic responsibility
+
++ Position requires ability to apply theories and develop technical approaches with minimal oversight
+
++ Position requires the ability to effectively team with scientists and engineers to develop creative solutions to complex problems
+*Equal Employment Opportunity**
+Battelle Memorial Institute (BMI) at Pacific Northwest National Laboratory (PNNL) is an Affirmative Action/Equal Opportunity Employer and supports diversity in the workplace. All employment decisions are made without regard to race, color, religion, sex, national origin, age, disability, veteran status, marital or family status, sexual orientation, gender identity, or genetic information. All BMI staff must be able to demonstrate the legal right to work in the United States. BMI is an E-Verify employer. Learn more at jobs.pnnl.gov.
+*_Please be aware that the Department of Energy (DOE) prohibits DOE employees and contractors from participation in certain foreign government talent recruitment programs. If you are offered a position at PNNL and are currently a participant in a foreign government talent recruitment program you will be required to disclose this information before your first day of employment._**
+*Other Information**
+Due to business needs and client space, US Citizenship is required:
+
+The Pacific Northwest National Laboratory is subject to the Department of Energy Unclassified Foreign Visits & Assignment Program site, information, technologies, and equipment access requirements.
+
+_Directorate:_ _National Security_
+
+_Job Category:_ _Scientists/Scientific Support_
+
+_Group:_ _Appld Stats & Comp Modeling_
+
+_Opening Date:_ _2020-06-03_
+
+_Closing Date:_ _2020-09-01_",3.8,"Pacific Northwest National Laboratory
+3.8","Seattle, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory",80,120,100.0,"Pacific Northwest National Laboratory
+", WA,0,55,False,False,True,False
+4,Data Engineer,$80K-$120K(Employer est.),"ARC is searching for a Data Engineer to join our team! In this role, you will provide software development and product delivery support for data products and product teams. You will be responsible for product delivery data pipelines and the product lifecycle with direction from the Product Owner, the Solution Owner and technical guidance from Solution Architects.
+If you are searching for a position where you can lend your technical expertise and experience professional growth, then we want to hear from you.
+
+Support data pipeline development by contributing to and or leveraging existing architectural patterns to deliver the optimal product related to data; including but not limited to establishing and communicating design patterns, automation, recovery, and operational run books. Mentor other engineers. Cross functional collaboration and provide overall technical and thought leadership to other teams as needed.
+Partner with product owners and business SMEs to analyze the business need and provide a supportable and sustainable engineered solution. Ensure that the overall technical solution is aligned with the business needs and adheres to ARC’s Architectural Guiding Principals.
+Help drive the creation and modifications of the product portfolio components, identify and engage all technical resources necessary to contribute to the solution. Ensure the solution is consistent with ARC architecture, design and development standards.
+Develop data pipelines using industry best practices. Make adjustments to adopt new methodologies that provide the business with increased flexibility and agility.
+Stay current with latest cloud technologies, patterns, and methodologies; share knowledge by clearly articulating results and ideas to key stakeholders. May be required to present ideas to larger audience for review and buy-in.
+
+Bachelor’s Degree in Computer Science or related field; or equivalent experience
+3+ years of experience with full cycle application development (Full SDLC experience: design, development, delivery, etc.),
+3+ years with Agile, Scrum, DevOps, and Continuous Integration and Continuous Delivery
+3+ years of experience implementing modern applications using:
+Cloud Based Solutions/Technologies (AWS, Google, Azure). AWS tech stack including, but not limited to, Lambda, API Gateway, DynamoDB, S3, Cloudwatch, SNS/SQS, Step Functions, Fargate
+Implementation of modern application and infrastructure design patterns, including micro-services and containers, disposable, reactive, stateless and distributed patterns
+Open source technologies including, but not limited to, NodeJS, OpenJDK, React, Python and NoSQL, DynamoDB database(s)
+Familiarity with DevOps tools including, but not limited to, Terraform/Cloud formation, CI/CD pipe line tool like Jenkins, GIT, Jira, Confluence, Jenkins, Sonar, Nexus, automated test and deployment tools
+Data warehouse platforms (such as Snowflake, and Redshift). Expertise with SQL, database design/structures, ETL/ELT design patterns, and datamart structures (star, snowflake schemas, etc.)
+Experience w/Data Lake concepts and design patters (AWS S3, parquet, python, lambda, java, NoSQL
+BI Technologies (such as Tableau, Jasper, Cognos, Qlik, Looker, and others)
+Understanding of Data Management and Data governance best practices
+You Will Also Bring These Professional Skills:
+Proven ability to lead a group through an architectural development process and collaborate with stakeholders at all levels
+Experience leading small technical teams to mentor and guide multiple-disciplined (full stack) technical teams
+Ability to discover and define functional requirements and to transform them into technical requirements and solutions
+Ability to influence technology strategy and best practices across peer and leadership groups to support an agile development culture
+Outstanding communication skills (verbal and written) and ability to communicate with internal and external customers and all levels of management, including communicating technical information to nontechnical audiences
+A strong intellectual curiosity to continually challenge what exists and explore what should be changed to best meet evolving business and market
+A strong passion to support peers to help meet timelines on larger projects
+
+Joining ARC means joining a team that is motivated, diverse, creative, collaborative and solutions-oriented. We think big, embrace challenges, and explore new ideas to lead the way for the travel industry.
+Our employees value the hands-on learning and professional development opportunities that allow them to expand their skills and grow their career in new, dynamic ways.
+We offer a highly competitive, comprehensive benefits package so you can worry less and focus on what truly matters.
+By joining ARC, you will partner with top minds in the industry as we use data and technology to innovate how the world travels.
+EOE M/F/D/V Females and Minorities Encouraged to Apply",3.9,"Airlines Reporting Corporation
+3.9","Arlington, VA","Arlington, VA",201 to 500 employees,1984,Company - Private,Financial Transaction Processing,Finance,$100 to $500 million (USD),-1,80,120,100.0,"Airlines Reporting Corporation
+", VA,1,36,True,True,False,False
+5,Senior Data Scientist,$80K-$120K(Employer est.),"GEICO’s Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.
+
+As a Senior Data Scientist, you will serve as a technical and thought leader on this diverse and highly skilled team. You will design and develop inventive solutions to drive innovation and delivery of organizational value. You’ll synthesize large datasets and solve complex problems through the use of advanced machine learning and statistical modeling. You’ll work in a highly collaborative, team environment, guiding and mentoring junior data scientists and collaborating with multiple stakeholders. You will assist management in the communication of insights and the implementation of impactful data science solutions across the organization.
+
+Expected Qualifications:
+Advanced degree in a quantitative discipline, such as statistics, data science, computer science, mathematics, engineering, physics, etc.
+
+4+ years of experience in designing, developing, evaluating, and deploying predictive modeling, machine learning, advanced analytics
+
+Deep understanding and experience with advanced statistics and modern machine learning predictive techniques, including GLMs, decision trees, forests, boosted ensembles, neural networks, deep learning, and graph analytics.
+
+Superior coding skills using common data science tools, including Python (strongly preferred), R, Linux/Unix command line and shell scripting.
+
+Excellent skill and significant experience in data processing using SQL, Hive, Impala, Spark, or equivalent querying language
+
+Strong experience with distributed storage and big data computing technology, such as AWS, Hadoop, or Spark
+
+Excellent communication skills and experience in working with stakeholders
+
+Passion for extracting hidden insights and building machine learning systems that enhance business outcomes
+
+Note: The safety of our associates, both current and future, is GEICO’s highest priority. At this time, most of our associates are working remotely due to the current COVID-19 pandemic. Candidates who are selected for this position will be trained remotely and must be able to work from home in a designated work area. Once GEICO determines it is safe for associates to return to the office, candidates may be required to work in our Chevy Chase, MD office.
+
+Qualifications
+
+About GEICO
+
+For more than 75 years, GEICO has stood out from the rest of the insurance industry! We are one of the nation's largest and fastest-growing auto insurers thanks to our low rates, outstanding service and clever marketing. We're an industry leader employing thousands of dedicated and hard-working associates. As a wholly owned subsidiary of Berkshire Hathaway, we offer associates training and career advancement in a financially stable and rewarding workplace.
+
+Our associates' quality of life is important to us. Full-time GEICO associates are offered a comprehensive Total Rewards Program*, including:
+
+401(k) and profit-sharing plans
+Medical, dental, vision and life insurance
+Paid vacation, holidays and leave programs
+Tuition reimbursement
+Associate assistance program
+Flexible spending accounts
+Business casual dress
+Fitness and dining facilities (at most locations)
+Associate clubs and sports teams
+Volunteer opportunities
+Benefit offerings for positions other than full-time may vary.",3.3,"GEICO
+3.3","Chevy Chase, MD","Washington, DC",10000+ employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),-1,80,120,100.0,"GEICO
+", MD,0,84,True,True,True,False
+6,Scientist,$80K-$120K(Employer est.),"Join us as we Rise to the Challenge
+At KCI, we’re building an enduring company that provides unparalleled value to our employee-owners. We make our mark designing and delivering our world-class solutions, so we invest deeply in developing our team. We reward integrity and commitment, and when we do well, you do well. Our people have freedom to innovate, unlimited growth, a voice that matters, a lifestyle that works, and skin in the game. Because life’s more fun when you own it.
+THE COMPANY
+KCI Technologies, Inc. is a 100% employee-owned engineering, consulting and construction firm serving clients throughout the United States. KCI is recognized as an industry leader, employing cutting-edge technologies, management practices and strategic growth initiatives. Employee ownership fosters an entrepreneurial spirit, encourages technical expertise, and shapes strategic planning.
+
+Selected candidate will provide environmental regulatory compliance consulting support under a contract with a major regional transit client. In particular, selected candidate will provide technical support to ensure compliance with federal, state and local air quality regulations. Specific air quality compliance consulting duties may include:
+Review and evaluate chemical product SDS sheets and information to determine VOC compliance
+Assist with air emissions inventories and compliance reporting
+Prepare semi-annual reports and annual certification for Title V air permit
+Evaluate new facilities or renovated facilities for permit applicability
+
+Bachelor of Science or Master of Science in Natural or Environmental or related field.
+Minimum of 2 - 4 years of professional experience.
+Pre-employment drug screening is a condition of employment. Background and motor vehicle checks may be required based upon position.
+
+Complete Annual Individual Training Program
+Train adequate backup personnel to support your role in your absence
+Attend meetings with clients as required
+Comply with all KCI policies and procedures
+Ensure projects fulfill ISO compliance requirements
+Complete other duties as required/assigned
+Assist with preparation of proposals and qualifications in repsonse to RFPs and RFQs
+Achieve or exceed budgeted individual utilization target(85% typical)
+Attend bi-weekly(or more frequently as necessary) meetings with project team on all projects/tasks
+Complete all tasks on time and within budget while fully meeting the scope
+Operate within specified (corporate or project) budget parameters
+Assess and document potential project impacts
+Collect required field data using proper protocols and techniques
+Lead field surveys
+Lead the development of and assemble organized, clear, and cohesive technical reports
+Prepare avoidance or minimization recommendations
+Prepare mitigation strategy and plan as required
+Process field data for inclusion in reports and deliverables
+Review and interpret lab results
+KCI Technologies, Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.",3.6,"KCI Technologies
+3.6","Sparks, MD","Glencoe, MD",1001 to 5000 employees,1988,Company - Private,Architectural & Engineering Services,Business Services,$100 to $500 million (USD),-1,80,120,100.0,"KCI Technologies
+", MD,0,32,False,False,False,False
+7,Data Engineer,$80K-$120K(Employer est.),"Otus is creating a culture of success while maximizing learning in the K-12 space. We do this by implementing amazing ideas from awesome people and we need more awesomeness on our team. Are you passionate, collaborative, love to geek out on technology, and want to work for a mission-driven company that is shaping the way teachers, students and parents of students learn together? If so, we want to hear from you.
+Our diverse team consists of talented designers, developers, coaches, and leaders who share a variety of interests. You'll find musicians, world travelers, beer enthusiasts, nerds, sports fans, and all-around great people who shape our positive culture.
+Your Role
+Otus is a building a next generation Platform for EdTech in order to support our transformative vision for K-12 education across the US
+Model and architect our data in a way that will scale with the increasingly complex ways we’re analyzing it
+Build robust pipelines that make sure data is where it needs to be, when it needs to be there
+Build frameworks and tools to help others design and build their own data pipelines in a self-service manner
+Performance testing and engineering to ensure that our systems always scale to meet our needs
+Key member of the team focused on pure hands-on contribution to the implementation and operation of our data platform
+Qualifications
+Breadth - Substantial experience as a high-performance Engineer across multiple environments on high-performance data systems that process data across various sources at a near real-time pace
+At least 1 project where you personally designed, implemented, and operated large scale, high throughput data pipelines with a focus on high data quality
+At least 1 other project where you built a secure, reliable, scalable system on AWS that saw significant traffic
+Depth - You can go up and down the stack from deep in the infrastructure up to the data, application, and client layers
+Speed - Experience with small teams that move fast -- all members are expected to be able to achieve maximum results with minimal direction
+Ownership and accountability - You own the things that you build
+Drive - When you see a need, you fill a need. You can step in where you see a need and push us all forward
+Modern Infra - Hands-on experience with Kubernetes, Airflow, and Kafka
+Modern CI/CD - Hands-on experience with Codefresh, Spinnaker, Jenkins or similar
+Benefits and Perks
+Competitive salary and professional development spending
+20 PTO days a year, plus a day off for your birthday (or a loved one's), an interest day (to do something you love) and paid holidays
+Up to 12 weeks of parental leave, and great work/life balance
+Flexible hours and remote work so you can be at your most productive
+Excellent medical, dental, and vision insurance
+Life Insurance and disability benefits
+401K with an employer match (up to 4%)
+Otus is an Equal Opportunity Employer and embraces diversity of every kind. You must be legally authorized to work in the US. Unfortunately, the company is unable to support sponsorships at this time.",5.0,"Otus
+5.0","Remote, Remote","Chicago, IL",51 to 200 employees,2014,Company - Private,K-12 Education,Education,Unknown / Non-Applicable,-1,80,120,100.0,"Otus
+", Remote,0,6,False,True,True,False
+8,Scientist: Mammalian Cell Line Development- 3+ years required,$80K-$120K(Employer est.),"ABOUT CELLTHEON:
+
+Located in the SF Bay Area, Celltheon Corporation has developed novel mammalian expression technologies to enhance recombinant protein production. In addition, we are dedicated to offering our clients a diverse range of technical expertise from molecular biology, cell culture, purification process development and generation of early stage pre-clinical material. Celltheon employees enjoy the benefit of having the opportunity to work in a diverse challenging and technical environment with a chance to learn and contribute in multiple areas, offering both personal and professional growth in a short time frame. Celltheon seeks talented, dedicated individuals to join its growing team. Celltheon offers a competitive salary and benefits program. If you desire a position in an active, collaborative scientific environment with the opportunity for professional growth and contribution, please apply on indeed.
+
+Our website: http://www.celltheon.com
+
+Scientist Job Description
+
+Celltheon is seeking an innovative, independent and motivated professional with 3+ years of experience and expertise in mammalian expression technologies including cell line development of monoclonal antibodies and other recombinant proteins. The successful candidate will lead a team of Associate Scientists focused on cell line development of recombinant proteins including stable transfection optimization, single cell subcloning, cell banking, and process optimization. The candidate will be expected to learn and improve on existing cell line development workflows established by the company.
+
+Requirements include:
+
+· Cell Line Development: 3+ years of hands on industry experience with CHO cell line development. An ideal candidate understands cell line development procedures and technologies for transfection, resistance selection, cell counting, clonality documentation, cell passaging, clone selection, clone stability assessment, media adaptation, media and feed preparation, cryopreservation, and process development to improve protein expression.
+Process Development Experience: An ideal candidate has bioreactor operation experience (stir-tank and WAVE bioreactors), developing scalable processes for manufacturing.
+· Technical expertise: Scientific understanding of the biopharma industry and a general knowledge of the products and technologies needed for clone screening workflows and processes. Has developed and troubleshooted cell line development workflows in the past.
+
+· Communication: Regularly provides written updates on projects. Interprets and effectively communicates scientific findings / results in one-on-one and/or group discussions and summarizes results in presentation format.
+
+· Data maintenance and interpretation: Collects and compiles data and records in laboratory notebooks and batch records, ensuring they are consistently updated, audited, and well maintained. In addition, the candidate must be able to create and revise existing SOPs, as methods are developed and modified.
+
+· Performance and Management: Ability to follow written and verbal instructions in the performance of experiments and method development. Ability to train, manage and delegate tasks to direct reports.
+
+MINIMUM REQUIREMENTS:
+
+· Masters Degree in Biotechnology, Bioprocessing, Bioscience or a related subject
+
+· 3+ years of relevant industry experience in CHO Cell Line Development
+
+· Understanding of GxP compliance is preferred.
+
+· Strong working knowledge of Microsoft suite of software (Word, Excel, PowerPoint)
+
+· Good verbal and written communication skills including report writing.
+
+· Ability to lift/ carry ~50 pounds and work in a biosafety cabinet.
+
+· Ability to lead and manage a team of 4-5 people, and interact with other department leads.
+
+Job Type: Full-time
+
+Benefits:
+Paid Time Off
+Schedule:
+Monday to Friday
+Weekends
+Experience:
+Mammalian Cell Line Development: 5 years (Required)
+Education:
+Master's (Required)
+Work authorization:
+United States (Required)
+Company's website:
+www.celltheon.com
+Work Remotely:
+No",4.0,"Celltheon
+4.0","Union City, CA","Union City, CA",1 to 50 employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,80,120,100.0,"Celltheon
+", CA,1,0,False,False,True,False
+9,Data Scientist,$80K-$120K(Employer est.),"Company Description
+
+MMIT is growing from the leading drug coverage data business into a comprehensive, integrated market access company serving pharmaceutical manufacturers, health insurers, PBMs and healthcare IT companies. Their suite of applications is designed to manage an ever-changing proprietary set of pharmacy and medical benefit information and to provide a structured view of complex market access information. By embedding their data and SaaS applications across healthcare, they help ensure transparency, consistency and informed prescription decisions across the MMIT Network. They partner with hundreds of payers and pharma manufacturers ensuring that their products continually capture and analyze coverage and restriction criteria for more than 98% covered lives.
+
+Team Overview
+
+The MMIT Product Management Team is charged with developing, growing and maintaining the MMIT product portfolio that smooth access to lifechanging therapies. This entails managing products through all phases of the product lifecycle, from concept to sunset. The product management team embraces a market-backed perspective, champions unmet client needs, and is committed to a highly accountable and collaborative Product Management approach.
+
+Job Description
+
+MMIT is seeking experienced Data Scientists to meaningful contributes to the growth and development of the MMIT product portfolio. Ideal candidates are comfortable working with large, complex data sets to help inform, simplify and actualize key product capabilities. They will have comfort collaborating with various stakeholders and navigating ambiguity with limited direction. They will dedicate themselves to understanding the MMIT product portfolio (both current capabilities and future product roadmaps) and key data dependencies to inform data models, architecture, and new product development.
+
+To succeed in this role, you will apply your skillset to
+
+· Inform, create and/or maintain master data hierarchy, attributes and structure.
+
+· Bridge claims data and coverage data – Refine existing rules and create and continually improve new methods for accurately assigning pharmacy and medical claims volumes to MMIT controller entities
+
+· Apply data science to the creation of short and long form geographic market and controller entity descriptive narratives (NLP / NLG)
+
+· Translate product management strategy into actionable data science deliverables, guiding development of data models, business rules and other advanced analytical capabilities
+
+· Excel at communicating across a broad set of cross-functional stakeholders.
+
+· Work collaboratively with MMIT product and data teams to develop and/or commercialize analytics use cases that may include market access, coverage / lives, and RWE data
+
+· Effectively partner with external organizations including clients and vendors to develop meaning and projectable analytics about trends in market access dynamics across payers, geographies, indications, drugs, etc.
+
+· Identify and evaluate additional data sources that could be integrated in value enhancing ways.
+
+· Build reports, dashboards and/or other analyses as needed and/or as specific initiatives arise.
+
+· Support various commercial or commercialization efforts as needed.
+
+· Take a leading role in developing data science as a discipline across product management, development and data operations.
+
+Qualifications
+
+Relevant Skills and Experiences
+
+· Postgraduate degree or higher involving machine learning, statistics, or computer science
+
+· Experience of statistical / machine learning projects in academia or commercial sector end to end with proven delivery capability including capturing requirements, designing analysis plans, interfacing with clients and report / manuscript writing
+
+· Experience in applying Natural Language Processing and related AI capabilities.
+
+· Experience working with large and complex healthcare datasets, preferably patient-level longitudinal data and experience with studies of treatment effectiveness/outcomes, disease progression, adherence, healthcare utilization, patient journey, sales targeting, prescription/procedure volumes/shares, provider networks and prescribing/treatment patterns, etc
+
+· Strong related programming skills including experience with good coding practices and a thorough understanding of the data science package landscape. Familiarity with Tableau and PowerBI a plus.
+
+· Familiarity with agile software development practices
+
+· Excellent written and spoken communication skills, including ability to present technical concepts to lay audiences, write analysis plans for projects, contribute to proposals / grant applications, pitch ideas effectively and persuasively to clients / internal stakeholders, etc.
+
+· Demonstrated ability to work both collaboratively to solve complex problems and individually to research/advance areas of interest and exploration
+
+· Proven ability to develop meaningful/valuable analytic insights from multiple data sources and support value through commercialization
+
+Preferred candidates may also have
+
+· Experience supporting or launching Data and Analytics or SaaS-based enterprise product
+
+· Experience in managed markets and pharma market access ecosystem
+
+· Experience in the commercial health insurance industry
+
+· Knowledge of payer marketing, drug development lifecycle and drug launch process
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.
+
+Position will be based in Livingston NJ or Yardley PA
+
+(highly qualified remote applicants will be considered)
+
+Travel Requirements:
+
+Approximately <10>",3.9,"MMIT
+3.9","Yardley, PA","Yardley, PA",201 to 500 employees,1994,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,80,120,100.0,"MMIT
+", PA,1,26,False,False,True,False
+10,Senior Research Statistician- Data Scientist,$80K-$120K(Employer est.),"Acuity is seeking a Senior Research Statistician- Data Scientist to use statistical knowledge and research skills to solve business problems. The Research Statistician will develop, implement, and interpret statistical models with a strong emphasis on data mining and statistical/predictive modeling. Provides work direction.
+ESSENTIAL FUNCTIONS:
+Identifies and acquires additional data sources, both internal and external, that can be used to enhance analyses.
+Lead the development of analytical models to drive superior business outcomes.
+Develop in-depth understanding of drivers for optimization by utilizing statistics and data mining techniques.
+Using latest PC tools, develop, enhance and monitor reports and models for other business areas.
+Evaluate and use Data Mining Tools.
+Support, train, encourage, consult other areas in the company and provide actionable information to management.
+Continually monitor database information and future needs.
+Explore and acquire data from outside sources.
+Use database tools to support other departments
+Regular and predictable attendance.
+Perform other duties as assigned.
+EDUCATION:
+Masters/PhD in Statistics, Mathematics, Economics, Operations Research or Computer Science
+EXPERIENCE:
+5 years P&C insurance, modelling and project leader experience. Programming skills including SAS and R.
+OTHER QUALIFICATIONS:
+Strong interpersonal, quantitative, problem-solving, computer and conceptual skills.
+Aptitude in predictive modeling, multivariate analysis, statistical modeling, data mining techniques and mathematical statistics.
+Ability to apply strong programming and data management skills.
+Knowledge of and experience with at least one major computer programming language or advanced syntax in a major statistical package.
+This job is classified as exempt.",4.8,"Acuity Insurance
+4.8","Sheboygan, WI","Sheboygan, WI",1001 to 5000 employees,1925,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1,80,120,100.0,"Acuity Insurance
+", WI,1,95,False,False,False,False
+11,Scientist/Senior Scientist Pharmacology-Translational Science,$80K-$120K(Employer est.),"Company Summary:
+Aldeyra Therapeutics is a biotechnology company devoted to developing and commercializing next-generation medicines to improve the lives of patients with immune-mediated diseases. Aldeyras lead investigational drug product candidates are potential first-in-class treatments in development for dry eye disease, allergic conjunctivitis, and proliferative vitreoretinopathy. The company is also developing other product candidates for retinal and systemic inflammatory diseases.
+
+Position Summary:
+The scientist in this role will assist project teams to design, execute, and interpret pharmacology studies to facilitate the proof-of-concept of novel ideas, and eventual translation to the clinic.
+Responsibilities include:
+Contract, manage, analyze, interpret, and report on in vitro and in vivo pharmacology studies for small molecule drug candidates.
+Identify and select CROs to conduct in vitro and in vivo pharmacology studies.
+Design studies; review and revise study protocols.
+Manage and serve as study monitor on studies.
+Ensure studies are conducted as designed.
+Troubleshoot problems with studies.
+Ensure appropriate contract documents are in place with CROs.
+Work with CRO to develop study protocols.
+Interpret study data.
+Review and revise study reports.
+Write study reports and addenda, as needed.
+Present study results to team and senior management.
+Education/Qualification/Requirements
+Strong in vivo pharmacology background to inform CRO management
+Ph.D. in Pharmacology or closely related field
+4 to 8 years of experience in biotech/small companies conducting and managing pharmacology studies. Must have extensive experience designing, executing, and interpreting in vivo pharmacology studies.
+Experience identifying, selecting, and managing contract laboratories.
+Experience with small molecules.
+Broad therapeutic area experience, including experience in immunology and ocular
+disease.
+Experience working cross-functionally and on drug discovery/development project teams.
+Experience drafting pharmacology sections of INDs and/or other regulatory documents is a plus.
+Experience with academic and industry collaborations.
+Excellent written and verbal communication skills.
+Ability to manage multiple projects simultaneously.
+Budget, cost, and time management skills.
+Expertise with MS Office and statistical analysis programs.
+Leadership and Communication: Excellent written and verbal communicator with the ability to facilitate/articulate recommendations and key decision points to senior management; demonstrated experience reducing complex subjects to key points; ability to develop a strong network across company.
+Relationship Management: Ability to develop new business relationships and to nurture partnerships with internal and external stakeholders. Ability to provide strong cross-functional team leadership to maintain alignment and to set and meet collaborative operational goals.
+Job Type: Full-time
+
+Pay: $0.00 per hour
+
+Schedule:
+Monday to Friday
+Company's website:
+https://www.aldeyra.com/
+Work Remotely:
+Temporarily due to COVID-19",-1.0,"Aldeyra Therapeutics, Inc.","Lexington, MA",-1,-1,-1,-1,-1,-1,-1,-1,80,120,100.0,"Aldeyra Therapeutics, Inc.", MA,0,0,False,False,True,False
+12,"Director, Data Solutions Architect",$80K-$120K(Employer est.),"The Director, Data Solutions Architect will
+leverage cloud databases and machine learning technologies to design and
+architect solutions for Health and Safety. S/He will be involved in working
+with vendors to innovate and build a new platform using computer vision, player
+tracking and sensor (IOT) data to gain insights and prevent injuries. S/He will
+also be responsible to collect, manage, store and analyze all data related to
+Player health.
+
+Roles & Responsibilities
+Partner
+with Engineering and Vendor to implement processes and systems that enable the
+NFL to deliver feature-rich, scalable, and high-performance solution for Health
+and Safety of Game and Player
+Provide leadership and
+governance on Database Solutions and Architecture - Cloud and on prem
+Participate and build
+Computer Vision models using Machine Learning technologies to help improve data
+capture for analysis.
+Build and manage
+solutions for Data capture (ETL), Data Governance
+Manage and deliver data
+pipeline used for data analytics.
+10 years of database / building database solutions using relative technologies like Cloud Databases, Datawarehouse
+Deep knowledge of Football and health systems (sports science)
+Strong knowledge of Python, SQL Server, Database Concepts, Data Warehousing, Dimensional Modelling.
+Worked with structured and un-structured data.
+Big Data stack and Data Science knowledge is a plus. (AWS / Azure)
+Strong Analytic and statistics background.
+Concepts of Machine Learning, computer vision, Image recognition, Predictive modelling is a plus.
+Knowledge of packages like panda / numpy / tensorflow / SciPy is plus
+Data Visualization tools like Qlik / PowerBI is a plus.
+C#, .net knowledge is a plus
+BS Computer Science.
+Graduate or MBA degree would be preferred.
+Strong Team Player
+Self-motivated and able to run projects with minimum guidance.
+Works well with others business stakeholder, strong interpersonal and presentation skills, able to multi-task / time management
+Supervisory Responsibility:
+
+Will manage external consultants or vendors for the job.
+Manage / Work with Engineering team and data scientist.
+Travel:
+15 -25 Percent",3.9,"NFL
+3.9","New York, NY","New York, NY",1001 to 5000 employees,1920,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,"Major League Baseball (MLB), NBA, NHL",80,120,100.0,"NFL
+", NY,1,100,True,True,False,False
+13,Data Scientist,$80K-$120K(Employer est.),"It's fun to work in a company where people truly BELIEVE in what they're doing!
+
+We're committed to bringing passion and customer focus to the business.
+
+Thank you for your interest in NAVEX Global. At this time we are not actively hiring for the Data Scientist role, however, we encourage you to apply and join our Talent Network. We continue to prioritize engaging great people and look forward to learning more about you!
+
+Position Summary:
+
+As a Data Scientist, you will create innovative solutions to solve business problems by using real world solutions for decision making. Designing algorithms that solve business critical problems fo the world’s largest risk and compliance platform, your contributions make a material impact to the business culture. If you want to use cutting-edge machine learning techniques with technoloty that drives crucial decisins, this role is for you.
+
+We Offer You:
+An organization that is secure, growing and thriving with a reputation that we are proud to say is absolutely second to none
+A workplace experience that is based on our determination to retain you each day and enables you to learn, grow and develop your career, and people dedicated to your success at every level
+Competitive pay with benefits that matter, including the time and flexibility to balance the multiple roles you play in life
+Access to world’s largest data set in risk and compliance function
+What You Will Do:
+Analyze large sets of transactional data to understand core domain behavior in the area of Risk and Compliance function
+Design, develop, and validate machine learning models, including to deploy, monitor, and maintain models in production.
+Statistical modelling
+Explore and extract features and patterns to improve model capability
+Prototype modeling strategies to train and optimize model performance
+Perform link analysis with Users, Cases, Policies and Procedures and Training in an enterprise
+Perform time series modeling to predict risk trends
+Identify possible problems with data or processes and helps remediate
+Extraction, curation and analysis
+Data modeling and data transport pipelines to make data available for training and testing models
+Drive the determination of technology-driven product features and capabilities
+Recommendation on Language and library specification and help establish processes for a growing data science team
+What You Will Need:
+Background in STEM with 2+ year experience as a data scientist with specialization in machine learning, statistical modeling and optimization
+Strong knowledge in predictive modeling, statistics and data science
+Experience in machine learning including neural networks, reinforcement learning, adversarial learning, etc.
+Desired experience in visualization tools such as ggplot, d3.js and Matplottlib, and Tableau
+Proficiency in one or multiple data science programming languages such as R, Python and Spark
+Database design and sql queries to extract data
+Ability to communicate with both business and technical leaders
+Proficiency in collecting and mining data from disparate data sources, and willing to dig deeper and understand the process that creates the data
+Ability to prioritize, execute and deliver projects on time
+Capability to translate business opportunities into data science problems and define the correct project scope and performance metrics to measure success
+Experience working with agile development teams and processes
+Experience with change management, process improvement and project management
+Ability to build consensus among different groups with competing demands
+Experienced planning for the future, keeping abreast of new trends and technologies while managing day-to-day projects
+A commitment to do the right things right
+NAVEX Global is an equal opportunity employer, including disability/vets.
+
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!",3.2,"NAVEX Global
+3.2","Lake Oswego, OR","Lake Oswego, OR",1001 to 5000 employees,2012,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),-1,80,120,100.0,"NAVEX Global
+", OR,1,8,True,False,False,False
+14,Ag Data Scientist,$80K-$120K(Employer est.),"We're leaders. Innovators. Perfectionists. Constantly improving our products and practices, with our customers always at the forefront of everything we do. We’re the largest family-owned, retail seed company in the country and we’re looking for qualified leaders like you to help us grow. When you join Beck’s, you join a family. And it’s what we do together that sets us apart.
+
+Our Ag Data Scientist will take our innovative technology solutions to the next level by creating tools for our Technology team and providing insight and analytics on datasets.Our Ag Data Scientist will provide support and management of department projects as directed.
+
+This positions requires citizenship of or current work authorization in the United States.",4.5,"Beck's Hybrids
+4.5","Atlanta, IN","Atlanta, IN",501 to 1000 employees,1937,Company - Private,Farm Support Services,Agriculture & Forestry,$50 to $100 million (USD),-1,80,120,100.0,"Beck's Hybrids
+", IN,1,83,False,False,False,False
